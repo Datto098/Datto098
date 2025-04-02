@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Coder;Always+Learning" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 Hi there! I'm a passionate Full-Stack Developer who loves creating innovative web applications. I specialize in building responsive and performant applications using modern technologies.
 
-- 🔭 I'm currently working on personal projects and expanding my portfolio
-- 🌱 I'm currently learning Three.js and WebGL
-- 💬 Ask me about React, Node.js, and Web Development
-- 📫 How to reach me: [Telegram](https://t.me/Datto098)
+- I'm currently working on personal projects and expanding my portfolio
+- I'm currently learning Three.js and WebGL
+- Ask me about React, Node.js, and Web Development
+- How to reach me: [Telegram](https://t.me/Datto098)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -32,7 +32,7 @@ Hi there! I'm a passionate Full-Stack Developer who loves creating innovative we
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Datto098&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -42,7 +42,7 @@ Hi there! I'm a passionate Full-Stack Developer who loves creating innovative we
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Datto098&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### Portfolio Website
 - Modern 3D portfolio using Three.js and React
@@ -54,7 +54,7 @@ Hi there! I'm a passionate Full-Stack Developer who loves creating innovative we
 - Built with TypeScript and modern web technologies
 - [Code](https://github.com/Datto098/coconut-music)
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://github.com/Datto098">
